@@ -1,0 +1,65 @@
+{
+  "disciplinas": [
+    {
+      "nome": "Cálculo",
+      "topicos": [
+        {
+          "titulo": "Derivada",
+          "conteudo": "A derivada representa a taxa de variação instantânea de uma função. Geometricamente, corresponde à inclinação da reta tangente ao gráfico."
+        },
+        {
+          "titulo": "Integral",
+          "conteudo": "A integral definida pode ser interpretada como uma acumulação ou como a área líquida sob uma curva em determinado intervalo."
+        }
+      ]
+    },
+    {
+      "nome": "Química Geral",
+      "topicos": [
+        {
+          "titulo": "Equilíbrio químico",
+          "conteudo": "O equilíbrio químico ocorre quando as velocidades das reações direta e inversa se tornam iguais, mantendo constantes as concentrações macroscópicas."
+        },
+        {
+          "titulo": "pH",
+          "conteudo": "O pH é uma medida relacionada à atividade dos íons hidrogênio em uma solução. Para uma aproximação de solução diluída, pH = -log[H+]."
+        }
+      ]
+    },
+    {
+      "nome": "Balanço de Massa",
+      "topicos": [
+        {
+          "titulo": "Balanço geral",
+          "conteudo": "Um balanço de massa pode ser representado como: Entrada - Saída + Geração - Consumo = Acúmulo."
+        },
+        {
+          "titulo": "Regime permanente",
+          "conteudo": "Em regime permanente, o termo de acúmulo é igual a zero."
+        }
+      ]
+    },
+    {
+      "nome": "Física",
+      "topicos": [
+        {
+          "titulo": "Movimento Harmônico Simples",
+          "conteudo": "No MHS, uma forma comum da posição é x(t) = A sen(ωt + φ). A velocidade é obtida pela derivada da posição e a aceleração pela derivada da velocidade."
+        }
+      ]
+    },
+    {
+      "nome": "Estatística",
+      "topicos": [
+        {
+          "titulo": "Média",
+          "conteudo": "A média aritmética é obtida pela soma dos valores dividida pela quantidade de observações."
+        },
+        {
+          "titulo": "Desvio padrão",
+          "conteudo": "O desvio padrão mede a dispersão dos dados em relação à média."
+        }
+      ]
+    }
+  ]
+}
